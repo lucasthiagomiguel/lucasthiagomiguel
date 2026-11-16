@@ -5,8 +5,8 @@
 
 <p align="center">
   <a href="https://lucasthiagomiguel.github.io"><img src="https://img.shields.io/badge/Portf%C3%B3lio-lucasthiagomiguel.github.io-0f766e?style=for-the-badge" alt="Portfólio"></a>
-  <!-- Troque SEU-LINKEDIN pelo seu usuário do LinkedIn -->
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/lucas-souza-91299bb6/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:lssouzasantos@outlook.com.br"><img src="https://img.shields.io/badge/E--mail-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="E-mail"></a>
 </p>
 
 ---
